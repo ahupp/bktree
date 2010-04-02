@@ -3,5 +3,5 @@ allow fast lookup of words within a certain distance of a query word.
  
 The implementation is based on the description in this article:
  
-http://blog.notdot.net/archives/30-Damn-Cool-Algorithms,-Part-1-BK-Trees.html
+http://blog.notdot.net/2007/4/Damn-Cool-Algorithms-Part-1-BK-Trees
 

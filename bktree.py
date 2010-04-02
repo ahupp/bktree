@@ -7,7 +7,7 @@ find near matches to a mispelled word.
 
 The implementation is based on the description in this article:
 
-http://blog.notdot.net/archives/30-Damn-Cool-Algorithms,-Part-1-BK-Trees.html
+http://blog.notdot.net/2007/4/Damn-Cool-Algorithms-Part-1-BK-Trees
 
 Licensed under the PSF license: http://www.python.org/psf/license/
 
